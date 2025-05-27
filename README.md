@@ -2,7 +2,7 @@
 
 **ElAlmanya** is a clean and modern pest control company website designed for a real business. The website is fully responsive and built using **HTML**, **CSS**, and **JavaScript**.
 
-![ElAlmanya Screenshot](https://your-image-link-here.com)
+![ElAlmanya Screenshot](https://i.postimg.cc/NFz8cZRP/elalmanya.png)
 
 ## 🔗 Demo
 
